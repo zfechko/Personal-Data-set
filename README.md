@@ -25,4 +25,4 @@ The increase in player performance could be due to a number of factors
 * Increased opportunities to play. Playing golf has become easier than it used to be, I have around 5 municipal golf courses within a 20-30 minute drive. As well as a junior golf program that allows kids to play for as little as 5 dollars, which allows them to develop a love for the game and want to keep on playing. 
 
 ## What I Could Improve on
-When you look at the data, the amount of times a person appears at the Masters varies, I'm sure there is a way to compare each of the golfers on a level playing field but I did not know how to do that
+When you look at the data, the amount of times a person appears at the Masters varies, I'm sure there is a way to compare each of the golfers on a level playing field but I did not know how to do that. I could also have grabbed data from more years to make the trend more concrete.
