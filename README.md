@@ -12,7 +12,7 @@ I pulled this data from the PGA Tour website which listed the scoring averages o
 ## Visualizations
 ![Scoring Average](graph.png)
 
-Although the line through the median of each year shows a pretty shallow curve, it still shows a correlation that the median scoring average has decreased over the past 40 years
+Although the line through the median of each year shows a pretty shallow curve, it still shows a correlation that the median scoring average has decreased over the past 40 years. You can also see the boxes of each year condense a bit, meaning that all the golfers on the tour get more consistent so there is less variance between numbers.
 
 ![Tour Average](average.png)
 
